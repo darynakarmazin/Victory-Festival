@@ -54,6 +54,7 @@ a {
 
 .main-container {
   position: relative;
+  width: 1440px;
 }
 
 .header-container {
