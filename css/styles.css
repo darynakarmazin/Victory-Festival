@@ -111,7 +111,6 @@ a {
 
 .header-text {
   max-width: 484px;
-
   font-size: 20px;
   line-height: 1.2;
   color: #000000;
@@ -130,7 +129,7 @@ a {
 
 .container-hero {
   padding-top: 200px;
-  padding-bottom: 153px;
+  padding-bottom: 144px;
 }
 
 .section-program {
