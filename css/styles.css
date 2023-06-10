@@ -125,9 +125,12 @@ a {
 
 .section-hero {
   background-color: #f1fdff;
+  margin-bottom: 100px;
+}
+
+.container-hero {
   padding-top: 200px;
   padding-bottom: 153px;
-  margin-bottom: 100px;
 }
 
 .section-program {
