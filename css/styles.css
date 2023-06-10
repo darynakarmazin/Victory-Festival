@@ -332,3 +332,39 @@ a {
 .footer-contacts-text span {
   font-weight: 700;
 }
+
+.footer-feedback {
+  display: flex;
+  justify-content: space-between;
+  padding: 37px 97px 54px 39px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.footer-feedback-img {
+  width: 50%;
+}
+
+.footer-feedback-form {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+}
+
+.footer-feedback-form p {
+  max-width: 455px;
+  font-size: 27px;
+  line-height: 1.2;
+  color: #000000;
+  margin-bottom: 39px;
+}
+
+.footer-feedback-form input {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #000000;
+  background: #f9fadf;
+  border: none;
+  border-radius: 61px;
+  padding: 21px 0 21px 43px;
+}
