@@ -107,7 +107,6 @@ a {
 .header-title {
   max-width: 698px;
   margin-bottom: 64px;
-
   font-weight: 800;
   font-size: 93px;
   line-height: 0.95;
@@ -123,14 +122,11 @@ a {
   color: #000000;
 }
 
-.header-img {
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-
 .section-hero {
   background-color: #f1fdff;
+  background-image: url(../img/woman-ukranian-flag.png);
+  background-repeat: no-repeat;
+  background-position: right top;
   margin-bottom: 100px;
 }
 
